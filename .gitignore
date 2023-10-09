@@ -1,5 +1,10 @@
 Debug/
 Release/
+ASD_1/**/*.txt
+ASD_1/**/*.sln
+ASD_1/**/*.in
+ASD_1/**/*.out
+ASD_1/**/*.vcxproj*
 .vs/
 x64/
 *.sln
