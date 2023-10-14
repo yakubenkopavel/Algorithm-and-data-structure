@@ -8,3 +8,6 @@ x64/
 *.vcxproj.user
 *.bin
 *.txt
+*.in
+*.out
+*.h
